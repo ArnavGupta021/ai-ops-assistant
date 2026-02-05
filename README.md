@@ -1,11 +1,6 @@
-Perfect 👌
-Main tumhe **clean, professional, evaluator-friendly README** de raha hoon — jo directly paste kar sakte ho GitHub me.
 
-Ye fully assignment requirements ke according hai ✅
 
----
-
-# 📄 README.md (Copy Paste Ready)
+# 📄 README.md 
 
 ````markdown
 # AI Ops Assistant – GenAI Internship Assignment
